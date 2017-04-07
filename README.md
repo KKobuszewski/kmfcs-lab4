@@ -1,5 +1,5 @@
 
-# Bands of Graphene (using only $p_z$ states)
+# Bands of Graphene (using only $\\ p_z \\$ states)
 
 /![png](graphene.png)
 
